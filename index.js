@@ -1,1 +1,1 @@
-document.querySelector (DOMContedLoaded,)
+console.log(document.querySelector ('body'))
